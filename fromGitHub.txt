@@ -1,0 +1,2 @@
+this was the first time i have created from github.com
+now trying to commit directly to commit github.com remote repository
